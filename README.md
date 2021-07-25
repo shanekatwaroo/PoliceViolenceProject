@@ -1,4 +1,4 @@
-# CIS4400Final
+# Police Violence Project
 
 Description of Code
 
